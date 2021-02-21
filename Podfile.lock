@@ -1,0 +1,181 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AutoInch (2.1.0)
+  - Cent (7.0.0):
+    - Dollar (~> 7.1.0)
+  - Differentiator (4.0.1)
+  - Dollar (7.1.0)
+  - EFQRCode (5.1.9):
+    - EFQRCode/Core (= 5.1.9)
+  - EFQRCode/Core (5.1.9)
+  - ESTabBarController-swift (2.8.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - HandyJSON (5.0.2)
+  - IBAnimatable (6.1.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (5.15.7):
+    - Kingfisher/Core (= 5.15.7)
+  - Kingfisher/Core (5.15.7)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.5.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya-ObjectMapper/Core (2.9):
+    - Moya (~> 14.0.0-beta.6)
+    - ObjectMapper
+  - Moya-ObjectMapper/RxSwift (2.9):
+    - Moya-ObjectMapper/Core
+    - Moya/RxSwift
+    - RxSwift
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - NVActivityIndicatorView/Extended (5.1.1):
+    - NVActivityIndicatorView/Base
+  - ObjectMapper (4.2.0)
+  - OHHTTPStubs/Core (9.1.0)
+  - OHHTTPStubs/Default (9.1.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.1.0)
+  - OHHTTPStubs/Swift (9.1.0):
+    - OHHTTPStubs/Default
+  - pop (1.0.12)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SHFullscreenPopGestureSwift (1.2.1)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.0)
+  - SwiftyUserDefaults (5.0.0)
+  - Toucan (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire (~> 5.2.0)
+  - AutoInch
+  - Cent (~> 7.0.0)
+  - Dollar (~> 7.1.0)
+  - EFQRCode (~> 5.1.8)
+  - ESTabBarController-swift
+  - FMDB
+  - HandyJSON (~> 5.0.2)
+  - IBAnimatable
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD
+  - MJRefresh
+  - Moya (~> 14.0)
+  - Moya-ObjectMapper/RxSwift
+  - Moya/RxSwift (~> 14.0)
+  - NVActivityIndicatorView
+  - NVActivityIndicatorView/Extended
+  - OHHTTPStubs/Swift
+  - pop
+  - PromiseKit (~> 6.8)
+  - RxCocoa
+  - RxDataSources (~> 4.0)
+  - SHFullscreenPopGestureSwift
+  - SnapKit (~> 5.0.0)
+  - SwiftyJSON
+  - SwiftyJSON (~> 5.0.0)
+  - SwiftyUserDefaults (~> 5.0)
+  - Toucan
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AutoInch
+    - Cent
+    - Differentiator
+    - Dollar
+    - EFQRCode
+    - ESTabBarController-swift
+    - FMDB
+    - HandyJSON
+    - IBAnimatable
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - Moya-ObjectMapper
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - OHHTTPStubs
+    - pop
+    - PromiseKit
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SHFullscreenPopGestureSwift
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyUserDefaults
+    - Toucan
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AutoInch: f2468bf8e33f7642699296db30240d3b3631ba33
+  Cent: fb5ef7da981cc382a3562da5d86a01461cfb5ac4
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  Dollar: dc69a2997fa5df12ae7a91fec897963664c26750
+  EFQRCode: ac22e003a6aa09ec59ec48776c3560c024c95ba3
+  ESTabBarController-swift: 05593a6ad64700b03c0eb60ff625916370aa4136
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Moya-ObjectMapper: 967a99d9ea3aa9c93ddbe112aeca3667f53bfe93
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SHFullscreenPopGestureSwift: 96c20749695c8fbf14a29feb5ece469d7a909a41
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyUserDefaults: 33fcb42bd1feb53a37d873feb62c82967db5f7f6
+  Toucan: 8f228fabb21521b9658692df9325fe76e71d74b2
+
+PODFILE CHECKSUM: 7a637230a3eaf1f9681d322c88fd63d61d55dd4d
+
+COCOAPODS: 1.9.1
